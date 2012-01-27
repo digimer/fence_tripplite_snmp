@@ -1,0 +1,14 @@
+Program: fence_tripplite_snmp
+Author:  digimer (digimer@alteeve.com)
+Date:    2012-01-27
+Version: 0.2.4
+License: GPL v2.0+
+
+This fence agent is for TrippLite model switched PDUs. This script was 
+developed using a PDUMH15ATNET* and was based loosely on the fence_apc_snmp 
+fence agent.
+
+This agent is tested against EL6/cluster stable 3. 
+
+
+* http://www.tripplite.com/en/products/model.cfm?txtModelID=3495
